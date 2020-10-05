@@ -1,0 +1,30 @@
+{
+  "name": "titter4414",
+  "version": "1.0.0",
+  "description": "tweet reader",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer4414/twitter4414.git"
+  },
+  "keywords": [
+    "tweet",
+    "reader",
+    "twitter4414"
+  ],
+  "author": "Sameer Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameer4414/twitter4414/issues"
+  },
+  "homepage": "https://github.com/sameer4414/twitter4414#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  }
+}
